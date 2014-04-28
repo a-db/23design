@@ -1,4 +1,4 @@
 23design
 ========
 
-App created for 23design to keep track of job tickets and customers.
+Demo code of an app created for 23design. Used keep track of job tickets and customers.
